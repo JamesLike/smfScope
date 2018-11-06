@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## The CraggsCube
 
-You can use the [editor on GitHub](https://github.com/JamesLike/smfScope/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Single molecule Förster Resonance Energy Transfer (smFRET) can be used to obtain a unque level of infomation specifically for dynamic processes involving biological molcules. The Craggs group of The University of Sheffield has developed an open-source microscopsy platform for making smFRET measurements at a fraction of the price of typical commerical systems. The CraggsCube system can be built for around 50,000 GBP using commerically availible parts and fabrification of a simple microscoe body. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This webpage presents a modular platform based on a confocal system offering high stabilty, flexibility and a compact design. 
 
 ### Markdown
 
