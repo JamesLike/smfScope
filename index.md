@@ -5,5 +5,5 @@ Single molecule Förster Resonance Energy Transfer (smFRET) can be used to obtai
 This webpage presents a modular platform based on a confocal system offering high stabilty, flexibility and a compact design. 
 
         
-![cad](smfScope/scope_cad3-e1495538367887.png)
+![cad](/smfScope/scope_cad3-e1495538367887.png)
       
