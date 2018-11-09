@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: smfScope
 description: Open-source micorscopy platform for single molecule FRET
+[Parts] /parts.md
