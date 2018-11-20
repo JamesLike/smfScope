@@ -43,7 +43,7 @@ The Parts for the CraggsCube can be divided into three sections:
 
 | Name | Company | Part Number | Quantity | Implementation |
 |---------------------------------------------------------------------------|-----------|----------------|----------|-------------------------------------------------------------|
-| Rod Adapter for Ø6 mm ER Rods, 4 Pack | Thorlabs | ERSCA-P4 | 2 | To screw in rods between body and Di2 mount |
+| Rod Adapter for Ø6 mm ER Rods, 4 Pack | Thorlabs | [ERSCA-P4](https://www.thorlabs.com/thorproduct.cfm?partnumber=ERSCA-P4) | 2 | To screw in rods between body and Di2 mount |
 | 30 mm Cage XY Translator for Ø1" Optics | Thorlabs | CXY1 | 3 | Translation mounts for L6, L7 & L8 |
 | Achromatic doublet f=100 mm | Thorlabs | AC254-100-A-ML | 1 | L6 |
 | Achromatic doublet f=80 mm | Thorlabs | AC254-080-A-ML | 1 | L7 |
