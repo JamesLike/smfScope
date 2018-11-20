@@ -2,10 +2,10 @@
 # Parts List
 The Parts for the CraggsCube can be divided into three sections:
 * [Excitation Pathway](#excit)
-* [Emission Pathway](#Emission-Pathway)
-* [Microscope Body](#Microscope-Body)
+* [Emission Pathway](#emiss)
+* [Microscope Body](#body)
 
-# Excitation Pathway <a id="excit"></a>
+# <a id="excit"></a> Excitation Pathway 
 
 
 | Part Name | Company | Part Number | Quantity | Implementation |
@@ -40,7 +40,7 @@ The Parts for the CraggsCube can be divided into three sections:
 | Ø1" Adjustable Lens Tube 0.81" Travel Range | Thorlabs | [SM1V10](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1V10) | 1 | Afor attachment and focus of the CCD camrea and L2 |
 | LENS ACH 25.4 X 63.5 VIS-NIR TS | Edmund Optics | 49793 | 2 | Lenses for Camera and Power meter |
 
-# Emission-Pathway
+# <a id="emiss"></a> Emission Pathway
 
 | Name | Company | Part Number | Quantity | Implementation |
 |---------------------------------------------------------------------------|-----------|--------------------------------------------------------------------------------------|----------|-------------------------------------------------------------|
@@ -70,7 +70,7 @@ The Parts for the CraggsCube can be divided into three sections:
 | Adapter with External M6 x 1.0 Threads and External 8-32 Threads | Thorlabs | [AP6M8E](https://www.thorlabs.com/thorproduct.cfm?partnumber=AP6M8E) | 1 | Adaptor for Di3 posts |
 | Single photon counting module | Excelitas | SPCM-AQRH-14  | 2 | APD1 & APD2 |
 
-# Microscope-Body
+# <a id="body"></a> Microscope Body
 
 | Name | Company | Part Number | Quantity | Implementation |
 |--------------------------------------------------------------------|---------------|--------------------------------------------------------------------------|----------|-------------------------------------------|
