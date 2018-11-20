@@ -1,11 +1,11 @@
 [Parts](./parts.md). [Design](./design.md) [Lab](https://craggs-lab.com/). [People](./people.md) 
 # Parts List
 The Parts for the CraggsCube can be divided into three sections:
-* [Excitation Pathway](#Excitation-Pathway)
+* [Excitation Pathway](#excit)
 * [Emission Pathway](#Emission-Pathway)
 * [Microscope Body](#Microscope-Body)
 
-# Excitation-Pathway <a id="excit"></a>
+# Excitation Pathway <a id="excit"></a>
 
 
 | Part Name | Company | Part Number | Quantity | Implementation |
