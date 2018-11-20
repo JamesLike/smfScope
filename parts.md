@@ -9,7 +9,7 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-# Excitation Pathway
+# Excitation Pathway Changes
 | Right-Angle Kinematic Mirror Mount with Smooth Cage Rod Bores,            | Thorlabs      | KCB1C/M   | 2 | Mounts for mirrors M1 & M2                         |
 |---------------------------------------------------------------------------|---------------|-----------|---|----------------------------------------------------|
 | 30 mm Cage Cube with Dichroic Filter Mount (Metric)                       | Thorlabs      | CM1-DCH/M | 1 | Mount for BS1                                      |
