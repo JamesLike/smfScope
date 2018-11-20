@@ -11,7 +11,6 @@ Content in the first column | Content in the second column
 
 # Excitation Pathway
 | Part Name                                                                 | Company       | Part Number | Quantity | Implementation                                     |
-|---------------------------------------------------------------------------|---------------|-------------|----------|----------------------------------------------------|
 | Right-Angle Kinematic Mirror Mount with Smooth Cage Rod Bores,            | Thorlabs      | KCB1C/M     | 2        | Mounts for mirrors M1 & M2                         |
 | 30 mm Cage Cube with Dichroic Filter Mount (Metric)                       | Thorlabs      | CM1-DCH/M   | 1        | Mount for BS1                                      |
 | BB1-E02 - Ø1" Broadband Dielectric Mirror, 400 - 750 nm                   | Thorlabs      | BB1-E02     | 2        | M1 & M2                                            |
