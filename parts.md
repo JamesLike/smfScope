@@ -1,10 +1,10 @@
 # Parts List
 The Parts for the CraggsCube can be divided into three sections:
-* [[# Excitation Pathway]]
+* [link](#Excitation-Pathway)
 * Emission Pathway
 * Microscope Stage
 
-# Excitation Pathway
+# Excitation-Pathway
 
 | Part Name | Company | Part Number | Quantity | Implementation |
 |---------------------------------------------------------------------------|---------------|-------------|----------|----------------------------------------------------|
