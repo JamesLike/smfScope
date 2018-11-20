@@ -8,7 +8,7 @@ The Parts for the CraggsCube can be divided into three sections:
 # <a id="excit"></a> Excitation Pathway 
 
 
-| Part Name &nbsp; &nbsp; &nbsp;  | Company | Part Number | Quantity | Implementation |
+| Part Name | Company | Part Number | Quantity | Implementation |
 |---------------------------------------------------------------------------|---------------|----------------------------------------------------------------------------|----------|----------------------------------------------------|
 | Right-Angle Kinematic Mirror Mount with Smooth Cage Rod Bores, | Thorlabs | [KCB1C/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=KCB1C/M) | 2 | Mounts for mirrors M1 & M2 |
 | 30 mm Cage Cube with Dichroic Filter Mount (Metric) | Thorlabs | [CM1-DCH/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=CM1-DCH/M) | 1 | Mount for BS1 |
