@@ -70,5 +70,33 @@ The Parts for the CraggsCube can be divided into three sections:
 
 # Microscope-Body
 
+| Name | Company | Part Number | Quantity | Implementation |
+|--------------------------------------------------------------------|---------------|--------------------------------------------------------------------------|----------|-------------------------------------------|
+| 30mm Cage Right angle KM mount with tapped holes | Thorlabs | [KCB1/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=KCB1/M) | 1 | Mount for M3 |
+| 30 mm Cage Cube Connector | Thorlabs | [C4W-CC](https://www.thorlabs.com/thorproduct.cfm?partnumber=C4W-CC) | 1 | Connector for Di1 & M3 mounst |
+| 30 mm Cage Cube | Thorlabs | [C4W](https://www.thorlabs.com/thorproduct.cfm?partnumber=C4W) | 1 | Cube for Di1 mount |
+| Cage-Compatible Rectangular Filter Holder | Thorlabs | [FFM1](https://www.thorlabs.com/thorproduct.cfm?partnumber=FFM1) | 1 | Dichoic clamp for Di1 |
+| XYZ Translator for Ø1/2" | Thorlabs | [CXYZ05/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=CXYZ05/M) | 1 | Translation mount for P1P1 mount |
+| 30 mm Cage XY Translator for Ø1" Optics | Thorlabs | [CXY1](https://www.thorlabs.com/thorproduct.cfm?partnumber=CXY1) | 1 | Mount for L4 |
+| Cage Assembly Rod, 4" Long, Ø6 mm 4 pack | Thorlabs | [ER4-P4](https://www.thorlabs.com/thorproduct.cfm?partnumber=ER4-P4) | 1 | Rods between M3 mount and body |
+| Rod Adapter for Ø6 mm ER Rods, 4 Pack | Thorlabs | [ERSCA-P4](https://www.thorlabs.com/thorproduct.cfm?partnumber=ERSCA-P4) | 1 | Rod attachement between M3 mount and body |
+| SM1A3 - Adapter with External SM1 Threads and Internal RMS Threads | Thorlabs | [SM1A3](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1A3) | 1 | Pinhole adapter for Newport pinholes |
+| External SM05 Internal SM01 adadapter | Thorlabs | [SM1A1](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1A1) | 1 | Pinhole adapter for Newport pinholes |
+| Externally SM1-Threaded End Cap | Thorlabs | [SM1CP2](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1CP2) | 1 | Cap for spare port in Di1 mount |
+| SM1 Lens Tube 0.30" Thread Depth One Retaining Ring Included | Thorlabs | [SM1L03](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1L03) | 2 | Lens mounts for L4 & L5 |
+| 30 mm Cage Cube Precision Kimematic Rotation Platform (Metric) | Thorlabs | [B4CRP/M](https://www.thorlabs.com/thorproduct.cfm?partnumber=B4CRP/M) | 1 | Presision mount for Di1 |
+| Adapter with External SM1 Threads and Internal M25 x 0.75 Threads | Thorlabs | [SM1A12](https://www.thorlabs.com/thorproduct.cfm?partnumber=SM1A12) | 1 | FOC bushing adaptor |
+| RAR Lens PCX 25.4x50 Long Wave | Edmund Optics | 34340 | 2 | Lenses L4 & L5 |
+| Mounted Pinhole, 20 µm Aperture | Newport | PNH-20 | 1 | Various pinholes for use at position P1 |
+| 4-40 Stainless Steel Cap Screw, 3/8" Long, Pack of 50 | Thorlabs | [SH4S038](https://www.thorlabs.com/thorproduct.cfm?partnumber=SH4S038) | 1 | Screws for attaching Di1 mount to body |
+| Mounted Pinhole, 50 µm Aperture | Newport | PNH-50 | 1 | Various pinholes for use at position P1 |
+| Mounted Pinhole, 100 µm Aperture | Newport | PNH-100 | 1 | Various pinholes for use at position P1 |
+| Piezoconcept LT2.100 | Piezoconcept | N/A | 1 | xy nanostage |
+| Piezoconcept FOC300 | Piezoconcept | N/A | 1 | z nanostage |
+| SemRock: 350 - 1100 nm MaxMirror® ultrabroadband mirror | Semrock | MM3-311-t6-25.4 | 1 | M3 |
+| UPLSAPO60XO/1.35 WD=0.15 | Olympus | N1480700 | 1 | O1 |
+| IMMOIL-F30CC1-2 | Olympus | N5218700 | 1 | O1 Objective Oil |
+
+
 
 
