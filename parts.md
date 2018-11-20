@@ -1,6 +1,6 @@
 # Parts List
 The Parts for the CraggsCube can be divided into three sections:
-* [link](#Excitation-Pathway)
+* [Excitation Pathway](#Excitation-Pathway)
 * Emission Pathway
 * Microscope Stage
 
