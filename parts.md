@@ -1,3 +1,4 @@
+[Parts](./parts.md). [Design](./design.md) [Lab](https://craggs-lab.com/). [People](./people.md) 
 # Parts List
 The Parts for the CraggsCube can be divided into three sections:
 * [Excitation Pathway](#Excitation-Pathway)
