@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: smfScope
-description: Open-source microscopy platform for confocal, accurate, single-molecule FRET CHANGE
+description: Open-source confocal microscopy platform allowing accurate single-molecule FRET.
+[Parts](./parts.md)
