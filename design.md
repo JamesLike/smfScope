@@ -1,3 +1,3 @@
 [Parts](./parts.md). [Design](./design.md) [Lab](https://craggs-lab.com/). [People](./people.md) 
 # Design
-[Labelled](./Labelled diagram.png)
+![Labelled](./Labelled_diagram.png)
